@@ -10,8 +10,8 @@ https://nodejs.org/en/download/
 ```sh
 cd <project folder>
 ```
-3. Make a new terminal and run the command
+3. Make a new terminal and run the command.
 ```sh
  node gauss.js
  ```
-4. Press tab then enter.
+4. Press tab then hit enter.
