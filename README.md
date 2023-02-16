@@ -3,8 +3,9 @@
 ## 🚀 To run this project on vs code
 
 1. Download an extension or node.js
-   - link(https://nodejs.org/en/download/)
-
+```sh
+https://nodejs.org/en/download/
+```
 2. Go to the project directory.
 ```sh
 cd <project folder>
@@ -13,5 +14,4 @@ cd <project folder>
 ```sh
  node gauss.js
  ```
- 
 4. Press tab then enter.
