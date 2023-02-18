@@ -15,3 +15,7 @@ cd <project folder>
  node gauss.js
  ```
 4. Press tab then hit enter.
+
+## 📝 Gauss Jordan Process
+- https://brilliant.org/wiki/gaussian-elimination/
+- https://youtu.be/eYSASx8_nyg
