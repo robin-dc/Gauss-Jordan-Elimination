@@ -16,6 +16,6 @@ cd <project folder>
  ```
 4. Press tab then hit enter.
 
-## 📝 Gauss Jordan Process
+## 📝 What is Gauss Jordan Elimination?
 - https://brilliant.org/wiki/gaussian-elimination/
 - https://youtu.be/eYSASx8_nyg
