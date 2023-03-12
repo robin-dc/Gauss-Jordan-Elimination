@@ -12,7 +12,7 @@ cd <project folder>
 ```
 3. Make a new terminal and run the command.
 ```sh
- node gauss.js
+ node gauss
  ```
 4. Press tab then hit enter.
 
