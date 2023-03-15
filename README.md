@@ -1,4 +1,4 @@
-# Gauss-Jordan-Elimination
+# Gauss-Jordan-Elimination-Solver
 
 ## 🚀 To run this project on your local machine.
 
