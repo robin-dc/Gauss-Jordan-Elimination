@@ -1,6 +1,6 @@
 # Gauss-Jordan-Elimination
 
-## 🚀 To run this project on vs code
+## 🚀 To run this project on your local machine.
 
 1. Download an extension or node.js
 ```sh
