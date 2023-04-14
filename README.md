@@ -6,7 +6,7 @@ Normal matrix<br>
 [1 2  5 3]
 <br><br>
 Converted into an identity matrix
-<br><br>
+<br>
 [1 0 0 2]<br>
 [0 1 0 5]<br>
 [0 0 1 7]
