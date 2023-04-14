@@ -1,14 +1,14 @@
 # Gauss-Jordan-Elimination-Solver
 <br>
-Normal matrix
-[-1 3 5 0]
-[4 0 -2 8]
+Normal matrix<br>
+[-1 3 5 0]<br>
+[4 0 -2 8]<br>
 [1 2  5 3]
-<br>
+<br><br>
 Converted into an identity matrix
-<br>
-[1 0 0 2]
-[0 1 0 5]
+<br><br>
+[1 0 0 2]<br>
+[0 1 0 5]<br>
 [0 0 1 7]
 
 ## 🚀 To run this project on your local machine.
