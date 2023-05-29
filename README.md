@@ -1,5 +1,5 @@
 # Gauss Jordan Elimination : Overview
-Convert a 2x2 or 3x3 matrix into reduced-row echelon form also called as identity matrix - A matrix consists of 0&#39;s with diagonal 1&#39;s.
+Convert a 2x2 or 3x3 matrix into reduced-row echelon form also called as identity matrix - A matrix consists of 0&#39;s with diagonal 1&#39;s. I am aware that this code did not follow best practices, but i am trying to improve and become a better programmer someday.
 
 <br>
 
