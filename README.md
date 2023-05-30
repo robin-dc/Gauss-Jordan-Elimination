@@ -6,16 +6,27 @@ Convert a 2x2 or 3x3 matrix into reduced-row echelon form also called as identit
 ## ⚒ How does it work?
 
 1. Input the type of matrix and its content
+
 <br>
+
 <img src='https://github.com/robin-dc/Gauss-Jordan-Elimination/blob/main/gauss%20images/gauss_Step1.png'>
+
 <br>
+
 2. The program will then proceed to the process of converting it to an identity matrix including the row operations performed in each step and the solution.
+
 <br>
+
 <img src='https://github.com/robin-dc/Gauss-Jordan-Elimination/blob/main/gauss%20images/gauss_Step2.png'>
+
 <br>
+
 3. The program will stop until it reaches the reduced row-echelon form 
+
 <br>
+
 <img src='https://github.com/robin-dc/Gauss-Jordan-Elimination/blob/main/gauss%20images/gauss_Step3.png'>
+
 <br>
 
 ## Want to try out the challenge?
